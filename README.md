@@ -1,1 +1,3 @@
 # LearningSQA
+
+coba pakai git
